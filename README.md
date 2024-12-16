@@ -52,8 +52,7 @@ The CNN is built using the following layers:
 
 ## Results
 Add your model's performance metrics here, such as:
-- Training accuracy: 85.5%
-- Test accuracy: 85%
+- Accuracy: 86.5%
 
 Include confusion matrices, loss graphs, or example predictions as applicable.
 
