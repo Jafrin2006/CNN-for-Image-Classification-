@@ -50,6 +50,9 @@ The CNN is built using the following layers:
    Construct and assemble the CNN model.
    Train the model and assess how well it performs.
 
+## Test the accuracy
+- I have made a function to test if my model is working properly and check the model with two demo images which is loaded in the single_prediction folder.
+- The machine successfully recognise the correct picture as dog and cat.
 ## Results
 Add your model's performance metrics here, such as:
 - Accuracy: 86.5%
