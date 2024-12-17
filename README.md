@@ -55,7 +55,7 @@ The CNN is built using the following layers:
 - The machine successfully recognise the correct picture as dog and cat.
 ## Results
 Add your model's performance metrics here, such as:
-- Accuracy: 86.5%
+- Accuracy: 87%
 
 Include confusion matrices, loss graphs, or example predictions as applicable.
 
